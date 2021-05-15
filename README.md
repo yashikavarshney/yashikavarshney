@@ -4,7 +4,7 @@
 
 <p float="left">
   <a>
-    <img src="https://github.com/yashikavarshney/yashikavarshney/blob/main/ps.gif"  height="100" /> 
+    <img src="https://github.com/yashikavarshney/yashikavarshney/blob/main/ps.gif"  height="102" /> 
   </a>
   <a>
     <img src="https://github.com/yashikavarshney/yashikavarshney/blob/main/ai.gif"  height="100" />
