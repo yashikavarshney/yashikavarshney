@@ -4,16 +4,19 @@
 
 <p float="left">
   <a>
-    <img src="https://github.com/yashikavarshney/yashikavarshney/blob/main/psd.gif"  height="100" /> 
+    <img src="https://github.com/yashikavarshney/yashikavarshney/blob/main/ps.gif"  height="100" /> 
   </a>
   <a>
     <img src="https://github.com/yashikavarshney/yashikavarshney/blob/main/ai.gif"  height="100" />
   </a>
   <a>
     <img src="https://github.com/yashikavarshney/yashikavarshney/blob/main/xd.gif"  height="100" />
-  </a>  
-
-<img align="right" alt="UX Girl" height=400 width=500 src="https://github.com/yashikavarshney/yashikavarshney/blob/main/me.gif" />
+  </a>
+  <img align="right" alt="UX Girl" height=400 width=500 src="https://github.com/yashikavarshney/yashikavarshney/blob/main/me.gif" />
+</p>
+<p float="left">
+<img src="https://github.com/yashikavarshney/yashikavarshney/blob/main/wp.gif" height="100" />
+  </p>
   
 ### 📫 How to reach me? 
 
